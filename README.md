@@ -21,7 +21,7 @@ This project is a CRUD web application for managing suppliers and products, buil
 ## Getting Started
 1. Clone the repository
 2. Run `npm install`
-3. Set up your `.env` file 
+3. Set up your `.env` file (`MONGODB_URI`, `PORT`)
 4. Start MongoDB locally
 5. Run `npm start` or `node app.js`
 6. Access the app at `http://localhost:3000`
